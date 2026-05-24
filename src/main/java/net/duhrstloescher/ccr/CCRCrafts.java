@@ -1,5 +1,7 @@
 package net.duhrstloescher.ccr;
 
+import net.duhrstloescher.ccr.block.ModBlocks;
+import net.duhrstloescher.ccr.item.ModItemGroups;
 import net.duhrstloescher.ccr.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -14,7 +16,10 @@ public class CCRCrafts implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
+		ModItemGroups.registerModItemGroups();
 		ModItems.registerModItems();
+
+		ModBlocks.registerModBlocks();
 
 		LOGGER.info("Penis!");
 	}
