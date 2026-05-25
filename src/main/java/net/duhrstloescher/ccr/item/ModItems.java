@@ -19,7 +19,7 @@ public class ModItems {
         entries.add(ModItems.GOLDEN_NETHER_STAR);
     }
 
-    public static Item registerItem(String name, Item item) {
+    private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(CCRCrafts.MOD_ID, name), item);
     }
 
