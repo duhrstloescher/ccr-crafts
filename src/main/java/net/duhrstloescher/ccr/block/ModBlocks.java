@@ -12,12 +12,12 @@ public class ModBlocks {
 
 
 
-    public static Block registerBlock(String name, Block block) {
+    private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
         return Registry.register(Registries.BLOCK, new Identifier(CCRCrafts.MOD_ID, name), block);
     }
 
-    public static BlockItem registerBlockItem(String name, Block block) {
+    private static BlockItem registerBlockItem(String name, Block block) {
         return Registry.register(Registries.ITEM, new Identifier(CCRCrafts.MOD_ID, name),
                 new BlockItem(block, new Item.Settings()));
     }
