@@ -1,3 +1,6 @@
 {
-"item.ccr-crafts.golden_nether_star": "Golden Nether Star"
+"item.ccr-crafts.golden_nether_star": "Golden Nether Star",
+
+  "item.ccr-crafts.puffer_armor_trim_smithing_template": "Smithing Template",
+  "trim_pattern.ccr-crafts.puffer": "Cult Armor Trim (only Chestplate tho)"
 }

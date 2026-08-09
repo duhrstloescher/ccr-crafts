@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:puffer",
+  "description": {
+    "translate": "trim_pattern.ccr-crafts.puffer"
+  },
+  "template_item": "ccr-crafts:puffer_armor_trim_smithing_template"
+}

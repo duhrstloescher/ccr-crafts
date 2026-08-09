@@ -20,5 +20,7 @@ public class ModModelProvider extends FabricModelProvider {
     @Override
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {
         itemModelGenerator.register(ModItems.GOLDEN_NETHER_STAR, Models.GENERATED);
+
+        itemModelGenerator.register(ModItems.PUFFER_TRIM_TEMPLATE, Models.GENERATED);
     }
 }
