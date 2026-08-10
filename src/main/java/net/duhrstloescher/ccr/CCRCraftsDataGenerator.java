@@ -1,9 +1,7 @@
 package net.duhrstloescher.ccr;
 
-import net.duhrstloescher.ccr.datagen.ModBlockTagProvider;
-import net.duhrstloescher.ccr.datagen.ModItemTagProvider;
-import net.duhrstloescher.ccr.datagen.ModLootTableProvider;
-import net.duhrstloescher.ccr.datagen.ModModelProvider;
+import net.duhrstloescher.ccr.datagen.*;
+import net.duhrstloescher.ccr.datagen.provider.PaintingTagProvider;
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
 
@@ -16,5 +14,7 @@ public class CCRCraftsDataGenerator implements DataGeneratorEntrypoint {
 		pack.addProvider(ModItemTagProvider::new);
 		pack.addProvider(ModModelProvider::new);
 		pack.addProvider(ModLootTableProvider::new);
+
+		pack.addProvider(ModPaintingVariantGenerator::new);
 	}
 }

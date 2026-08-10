@@ -2,5 +2,11 @@
 "item.ccr-crafts.golden_nether_star": "Golden Nether Star",
 
   "item.ccr-crafts.puffer_armor_trim_smithing_template": "Smithing Template",
-  "trim_pattern.ccr-crafts.puffer": "Cult Armor Trim (only Chestplate tho)"
+  "trim_pattern.ccr-crafts.puffer": "Cult Armor Trim (only Chestplate tho)",
+
+  "painting.ccr-crafts.victory.author": "Duh",
+  "painting.ccr-crafts.victory.title": "Victory",
+
+  "painting.ccr-crafts.ccr_logo.author": "Duh",
+  "painting.ccr-crafts.ccr_logo.title": "Logo"
 }

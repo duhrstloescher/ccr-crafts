@@ -3,6 +3,7 @@ package net.duhrstloescher.ccr;
 import net.duhrstloescher.ccr.block.ModBlocks;
 import net.duhrstloescher.ccr.item.ModItemGroups;
 import net.duhrstloescher.ccr.item.ModItems;
+import net.duhrstloescher.ccr.painting.ModPaintings;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -20,6 +21,8 @@ public class CCRCrafts implements ModInitializer {
 		ModItems.registerModItems();
 
 		ModBlocks.registerModBlocks();
+
+		ModPaintings.registerModPaintings();
 
 		LOGGER.info("Penis!");
 	}
