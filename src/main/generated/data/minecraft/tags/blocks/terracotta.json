@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "ccr-crafts:bright_blue_terracotta",
+    "ccr-crafts:bright_light_blue_terracotta",
+    "ccr-crafts:bright_cyan_terracotta",
+    "ccr-crafts:bright_black_terracotta",
+    "ccr-crafts:bright_white_terracotta",
+    "ccr-crafts:bright_light_gray_terracotta",
+    "ccr-crafts:bright_gray_terracotta",
+    "ccr-crafts:bright_brown_terracotta",
+    "ccr-crafts:bright_red_terracotta",
+    "ccr-crafts:bright_orange_terracotta",
+    "ccr-crafts:bright_yellow_terracotta",
+    "ccr-crafts:bright_green_terracotta",
+    "ccr-crafts:bright_lime_terracotta",
+    "ccr-crafts:bright_pink_terracotta",
+    "ccr-crafts:bright_purple_terracotta",
+    "ccr-crafts:bright_magenta_terracotta"
+  ]
+}

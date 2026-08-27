@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ccr-crafts:block/bright_lime_terracotta"
+  }
+}
