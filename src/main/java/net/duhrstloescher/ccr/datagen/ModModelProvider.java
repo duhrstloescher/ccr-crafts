@@ -1,5 +1,6 @@
 package net.duhrstloescher.ccr.datagen;
 
+import net.duhrstloescher.ccr.block.ModBlocks;
 import net.duhrstloescher.ccr.item.ModItems;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
@@ -15,6 +16,22 @@ public class ModModelProvider extends FabricModelProvider {
     @Override
     public void generateBlockStateModels(BlockStateModelGenerator blockStateModelGenerator) {
 
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_BLUE_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_LIGHT_BLUE_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_PINK_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_MAGENTA_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_PURPLE_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_LIGHT_GRAY_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_GRAY_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_WHITE_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_BLACK_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_LIME_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_GREEN_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_BROWN_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_ORANGE_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_RED_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_YELLOW_TERRACOTTA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BRIGHT_CYAN_TERRACOTTA);
     }
 
     @Override
