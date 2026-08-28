@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#.#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:red_terracotta"
+    },
+    ".": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "ccr-crafts:bright_red_terracotta",
+    "count": 8
+  }
+}
