@@ -1,4 +1,4 @@
-// 1.20.1	2026-08-27T18:27:49.4194418	CCR Crafts/Model Definitions
+// 1.20.1	2026-10-04T11:34:27.6139535	CCR Crafts/Model Definitions
 01e25eb83dc9a4b51a354ed6a6913b64eb433cbc assets\ccr-crafts\models\block\bright_red_terracotta.json
 6e6149c177379b5136cd40885638ee418370f4bc assets\ccr-crafts\blockstates\bright_green_terracotta.json
 e01b01be40afbef727087a9a14581191280ff670 assets\ccr-crafts\models\block\bright_white_terracotta.json
@@ -34,10 +34,10 @@ f451163097a2cb65b50ac0eeb5320ea64bd54a38 assets\ccr-crafts\models\item\bright_bl
 0b3feb0d00ae84434714263a3c674d6b44662e28 assets\ccr-crafts\blockstates\bright_white_terracotta.json
 10b106558800dfb7f9caee5e27e9b8948a1ac7de assets\ccr-crafts\models\block\bright_green_terracotta.json
 679e6e6a0c56b726da7ebcf10562af1bcbe9dbb2 assets\ccr-crafts\blockstates\bright_yellow_terracotta.json
-c527be4145cbb101c1887cf0deadcd2a453a6bdf assets\ccr-crafts\models\block\bright_magenta_terracotta.json
 3dca580cf5b0e6e0f2e91c5d0b41a6910a3a9b55 assets\ccr-crafts\models\item\bright_green_terracotta.json
-27ebbcf7826a126b938b11d702898398651462cb assets\ccr-crafts\blockstates\bright_blue_terracotta.json
+c527be4145cbb101c1887cf0deadcd2a453a6bdf assets\ccr-crafts\models\block\bright_magenta_terracotta.json
 f93ba9f525f39fe51fea5178665c1c8cda7496e6 assets\ccr-crafts\models\block\bright_pink_terracotta.json
+27ebbcf7826a126b938b11d702898398651462cb assets\ccr-crafts\blockstates\bright_blue_terracotta.json
 c2d3187a5d74f3291723c8f9b777b1dac0f3073d assets\ccr-crafts\models\item\bright_cyan_terracotta.json
 53fc90b4a545ab4ddc3ab00d9252f269b1f69d5e assets\ccr-crafts\models\block\bright_light_gray_terracotta.json
 5d894203b8f095f31c9b2a51861257f9ef99ddbd assets\ccr-crafts\blockstates\bright_cyan_terracotta.json
@@ -45,7 +45,7 @@ c2d3187a5d74f3291723c8f9b777b1dac0f3073d assets\ccr-crafts\models\item\bright_cy
 2607dc68d9fe0533c60ad14d7971b6723012991a assets\ccr-crafts\models\block\bright_brown_terracotta.json
 f6efcd57fc6bc7d3e1a932264df5a48b021fcd86 assets\ccr-crafts\models\block\bright_orange_terracotta.json
 54240439eba9b93b8d77409034d6d4dded4d0904 assets\ccr-crafts\models\block\bright_cyan_terracotta.json
-925867976abc7fe89e6b8ccf784cb7482e0a3c33 assets\ccr-crafts\models\block\bright_gray_terracotta.json
 fc9a2035c83474a4d880526b5f28700204972b32 assets\ccr-crafts\blockstates\bright_gray_terracotta.json
+925867976abc7fe89e6b8ccf784cb7482e0a3c33 assets\ccr-crafts\models\block\bright_gray_terracotta.json
 be92b90705e91bee5b856cf0cadecc01da69563c assets\ccr-crafts\models\item\golden_nether_star.json
 d1e9b2d82539b537475abdf696cfda595154d348 assets\ccr-crafts\models\item\bright_yellow_terracotta.json

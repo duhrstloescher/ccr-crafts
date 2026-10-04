@@ -3,6 +3,7 @@ package net.duhrstloescher.ccr.datagen;
 import net.duhrstloescher.ccr.block.ModBlocks;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
+import net.minecraft.block.Blocks;
 import net.minecraft.registry.RegistryWrapper;
 import net.minecraft.registry.tag.BlockTags;
 
@@ -34,6 +35,9 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.BRIGHT_PINK_TERRACOTTA)
                 .add(ModBlocks.BRIGHT_PURPLE_TERRACOTTA)
                 .add(ModBlocks.BRIGHT_MAGENTA_TERRACOTTA);
+
+        getOrCreateTagBuilder(BlockTags.BEACON_BASE_BLOCKS)
+                .add(Blocks.COPPER_BLOCK);
 
     }
 }
