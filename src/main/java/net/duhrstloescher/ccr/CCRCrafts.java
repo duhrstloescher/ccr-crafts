@@ -4,6 +4,7 @@ import net.duhrstloescher.ccr.block.ModBlocks;
 import net.duhrstloescher.ccr.item.ModItemGroups;
 import net.duhrstloescher.ccr.item.ModItems;
 import net.duhrstloescher.ccr.painting.ModPaintings;
+import net.duhrstloescher.ccr.util.ModCustomTrades;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -23,6 +24,8 @@ public class CCRCrafts implements ModInitializer {
 		ModBlocks.registerModBlocks();
 
 		ModPaintings.registerModPaintings();
+
+		ModCustomTrades.registerCustomTrades();
 
 		LOGGER.info("Penis!");
 	}
