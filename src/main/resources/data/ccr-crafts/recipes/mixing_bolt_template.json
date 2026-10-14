@@ -5,12 +5,12 @@
       "item": "minecraft:copper_block"
     },
     {
-      "tag": "armor_trims"
+      "tag": "trim_templates"
     }
   ],
   "results": [
     {
-      "item": "ccr-crafts:bolt_armor_trim_smithing_template",
+      "item": "ccr-crafts:bolt_armor_trim_smithing_template"
     }
   ]
 }

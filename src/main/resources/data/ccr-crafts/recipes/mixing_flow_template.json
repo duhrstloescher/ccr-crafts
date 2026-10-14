@@ -5,12 +5,12 @@
       "item": "ccr-crafts:breeze_rod"
     },
     {
-      "tag": "armor_trims"
+      "tag": "trim_templates"
     }
   ],
   "results": [
     {
-      "item": "ccr-crafts:bolt_armor_trim_smithing_template"
+      "item": "ccr-crafts:flow_armor_trim_smithing_template"
     }
   ]
 }

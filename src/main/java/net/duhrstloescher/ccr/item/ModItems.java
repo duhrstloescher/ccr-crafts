@@ -30,6 +30,8 @@ public class ModItems {
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
         entries.add(ModItems.GOLDEN_NETHER_STAR);
         entries.add(ModItems.PUFFER_TRIM_TEMPLATE);
+        entries.add(ModItems.FLOW_TRIM_TEMPLATE);
+        entries.add(ModItems.BOLT_TRIM_TEMPLATE);
     }
 
     private static Item registerItem(String name, Item item) {
