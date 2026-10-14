@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ccr-crafts:breeze_rod"
+    }
+  ],
+  "result": {
+    "item": "faithfulmace:wind_charge"
+  }
+}

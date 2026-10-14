@@ -1,9 +1,10 @@
-// 1.20.1	2026-10-04T11:34:27.6139535	CCR Crafts/Model Definitions
+// 1.20.1	2026-10-14T15:10:16.510912	CCR Crafts/Model Definitions
 01e25eb83dc9a4b51a354ed6a6913b64eb433cbc assets\ccr-crafts\models\block\bright_red_terracotta.json
 6e6149c177379b5136cd40885638ee418370f4bc assets\ccr-crafts\blockstates\bright_green_terracotta.json
 e01b01be40afbef727087a9a14581191280ff670 assets\ccr-crafts\models\block\bright_white_terracotta.json
 2a4ee925a0853d9c1780ad97ab82d2685515d087 assets\ccr-crafts\models\item\bright_magenta_terracotta.json
 a60fc71f56c75c8516b76a70cc65a93f69d25fde assets\ccr-crafts\models\item\bright_red_terracotta.json
+cd2ce81d6ec177db874b6dbcf4d063ae2493da5f assets\ccr-crafts\models\item\flow_armor_trim_smithing_template.json
 cdba057f9b1e6c3842338fa35212172ad50a1f2d assets\ccr-crafts\models\item\bright_purple_terracotta.json
 79e5221a8bbb568e69b8388d98d2088fbae3e067 assets\ccr-crafts\models\item\bright_pink_terracotta.json
 908f2339ba60e7ce5091ebac7fc09916286d77a0 assets\ccr-crafts\models\item\bright_light_gray_terracotta.json
@@ -31,6 +32,7 @@ b2e758f8dc940f93dfe0a06f5dd359fed75fc0de assets\ccr-crafts\models\block\bright_y
 f451163097a2cb65b50ac0eeb5320ea64bd54a38 assets\ccr-crafts\models\item\bright_black_terracotta.json
 74962fc06cb6d6ab0b490e51a38dca334ea7f1fb assets\ccr-crafts\blockstates\bright_magenta_terracotta.json
 4a63903ec0500c7d77ac0e96bbbfbba5e1af2ba7 assets\ccr-crafts\blockstates\bright_purple_terracotta.json
+a445c3acb8980f10f2374c1e6bb210346fe776b5 assets\ccr-crafts\models\item\breeze_rod.json
 0b3feb0d00ae84434714263a3c674d6b44662e28 assets\ccr-crafts\blockstates\bright_white_terracotta.json
 10b106558800dfb7f9caee5e27e9b8948a1ac7de assets\ccr-crafts\models\block\bright_green_terracotta.json
 679e6e6a0c56b726da7ebcf10562af1bcbe9dbb2 assets\ccr-crafts\blockstates\bright_yellow_terracotta.json

@@ -1,8 +1,13 @@
 {
 "item.ccr-crafts.golden_nether_star": "Golden Nether Star",
 
+  "item.ccr-crafts.breeze_rod": "Breeze Rod",
+
   "item.ccr-crafts.puffer_armor_trim_smithing_template": "Smithing Template",
   "trim_pattern.ccr-crafts.puffer": "Cult Armor Trim (only Chestplate tho)",
+
+  "item.ccr-crafts.flow_armor_trim_smithing_template": "Smithing Template",
+  "trim_pattern.ccr-crafts.flow": "Flow Armor Trim",
 
   "block.ccr-crafts.bright_blue_terracotta": "Bright Blue Terracotta",
   "block.ccr-crafts.bright_light_blue_terracotta": "Bright Light Blue Terracotta",

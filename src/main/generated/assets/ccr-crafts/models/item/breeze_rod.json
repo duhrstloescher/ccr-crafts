@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "ccr-crafts:item/breeze_rod"
+  }
+}

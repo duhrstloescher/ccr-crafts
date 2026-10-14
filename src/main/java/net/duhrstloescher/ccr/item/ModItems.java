@@ -16,8 +16,14 @@ public class ModItems {
     public static final Item GOLDEN_NETHER_STAR = registerItem("golden_nether_star",
             new Item(new FabricItemSettings().fireproof()));
 
+    public static final Item BREEZE_ROD = registerItem("breeze_rod",
+            new Item(new FabricItemSettings()));
+
     public static final Item PUFFER_TRIM_TEMPLATE = registerItem("puffer_armor_trim_smithing_template",
             SmithingTemplateItem.of(new Identifier("ccr-crafts", "puffer")));
+
+    public static final Item FLOW_TRIM_TEMPLATE = registerItem("flow_armor_trim_smithing_template",
+            SmithingTemplateItem.of(new Identifier("ccr-crafts", "flow")));
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
         entries.add(ModItems.GOLDEN_NETHER_STAR);
