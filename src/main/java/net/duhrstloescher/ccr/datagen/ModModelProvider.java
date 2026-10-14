@@ -41,5 +41,6 @@ public class ModModelProvider extends FabricModelProvider {
 
         itemModelGenerator.register(ModItems.PUFFER_TRIM_TEMPLATE, Models.GENERATED);
         itemModelGenerator.register(ModItems.FLOW_TRIM_TEMPLATE,Models.GENERATED);
+        itemModelGenerator.register(ModItems.BOLT_TRIM_TEMPLATE, Models.GENERATED);
     }
 }

@@ -24,6 +24,8 @@ public class ModItems {
 
     public static final Item FLOW_TRIM_TEMPLATE = registerItem("flow_armor_trim_smithing_template",
             SmithingTemplateItem.of(new Identifier("ccr-crafts", "flow")));
+    public static final Item BOLT_TRIM_TEMPLATE = registerItem("bolt_armor_trim_smithing_template",
+            SmithingTemplateItem.of(new Identifier("ccr-crafts", "bolt")));
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
         entries.add(ModItems.GOLDEN_NETHER_STAR);

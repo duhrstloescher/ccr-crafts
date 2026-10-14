@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#_#",
+    "#C#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "_": {
+      "item": "ccr-crafts:bolt_armor_trim_smithing_template"
+    },
+    "C": {
+      "item": "minecraft:waxed_copper_block"
+    }
+  },
+  "result": {
+    "item": "ccr-crafts:bolt_armor_trim_smithing_template",
+    "count": 2
+  }
+}

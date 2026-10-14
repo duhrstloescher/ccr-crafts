@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bolt",
+  "description": {
+    "translate": "trim_pattern.ccr-crafts.bolt"
+  },
+  "template_item": "ccr-crafts:bolt_armor_trim_smithing_template"
+}

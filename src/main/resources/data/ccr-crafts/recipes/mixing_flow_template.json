@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "ccr-crafts:breeze_rod"
+    },
+    {
+      "tag": "armor_trims"
+    }
+  ],
+  "results": [
+    {
+      "item": "ccr-crafts:bolt_armor_trim_smithing_template"
+    }
+  ]
+}

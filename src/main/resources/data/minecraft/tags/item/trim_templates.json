@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "ccr-crafts:puffer_armor_trim_smithing_template",
-    "ccr-crafts:flow_armor_trim_smithing_template"
+    "ccr-crafts:flow_armor_trim_smithing_template",
+    "ccr-crafts:bolt_armor_trim_smithing_template"
   ]
 }

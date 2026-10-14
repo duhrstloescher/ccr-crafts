@@ -17,6 +17,7 @@
     }
   },
   "result": {
-    "item": "ccr-crafts:flow_armor_trim_smithing_template"
+    "item": "ccr-crafts:flow_armor_trim_smithing_template",
+    "count": 2
   }
 }

@@ -22,6 +22,7 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
 
         getOrCreateTagBuilder(ItemTags.TRIM_TEMPLATES)
                 .add(ModItems.PUFFER_TRIM_TEMPLATE)
-                .add(ModItems.FLOW_TRIM_TEMPLATE);
+                .add(ModItems.FLOW_TRIM_TEMPLATE)
+                .add(ModItems.BOLT_TRIM_TEMPLATE);
     }
 }

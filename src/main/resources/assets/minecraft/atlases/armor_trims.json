@@ -37,7 +37,9 @@
         "trims/models/armor/host_leggings",
         "trims/models/armor/puffer",
         "trims/models/armor/flow",
-        "trims/models/armor/flow_leggings"
+        "trims/models/armor/flow_leggings",
+        "trims/models/armor/bolt",
+        "trims/models/armor/bolt_leggings"
       ],
       "palette_key": "trims/color_palettes/trim_palette",
       "permutations": {
